@@ -17114,7 +17114,7 @@
                     children: (0, $r.jsx)("p", {
                       className: "about-text",
                       children:
-                        "Say hello to the official currency of 𝕏: 𝕏DOGE—where memes meet money! Powered by DDOGE's chaotic energy and fueled by 𝕏's ambition to reinvent everything, 𝕏DOGE is the ultimate fusion of laughs and ledgers. Why trade boring coins when you can meme your way to wealth? 𝕏!",
+                        "Say hello to the official currency of 𝕏: 𝕏DOGE—where memes meet money! Powered by DOGE's chaotic energy and fueled by 𝕏's ambition to reinvent everything, 𝕏DOGE is the ultimate fusion of laughs and ledgers. Why trade boring coins when you can meme your way to wealth? 𝕏!",
                     }),
                   }),
                 ],
