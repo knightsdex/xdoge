@@ -110,7 +110,7 @@ function HowToBuy() {
                   </svg>
                 }
                 title="Prepare Your Spaceship"
-                text="Install a crypto wallet (like MetaMask or Trust Wallet) to safely store your 𝕏OGE token."
+                text="Install a crypto wallet (like MetaMask or Trust Wallet) to safely store your 𝕏DOGE token."
               />
               <Card
                 svg={
@@ -156,7 +156,7 @@ function HowToBuy() {
                   </svg>
                 }
                 title="Launch to the Stars"
-                text="Swap your base Eth for 𝕏OGE token on a decentralized exchange (DEX)  ( Uniswap)."
+                text="Swap your base Eth for 𝕏DOGE token on a decentralized exchange (DEX)  ( Uniswap)."
               />
               <img
                 src="/img/card-img_1.png"
@@ -223,7 +223,7 @@ function HowToBuy() {
                   </svg>
                 }
                 title="Hold To The Moon"
-                text="Hold your 𝕏OGE token and prepare for the moon"
+                text="Hold your 𝕏DOGE token and prepare for the moon"
               />
 
               <Card
@@ -287,7 +287,7 @@ Once you have your Alien Meme Coins, connect with our community on social media 
           </div>
           <div className="container-hr">
             <a
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdc5510f863dead665cfb65b4203b713957094022&chain=mainnet"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet"
               rel="noreferrer"
               ref={buttonRef}
               className="btn-HowToBuy"

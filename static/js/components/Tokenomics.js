@@ -69,7 +69,7 @@ function Tokenomics() {
             <TokenData
               number="05"
               title="CA"
-              text="0xdc5510f863dead665cfb65b4203b713957094022"
+              text="0xComingSoon"
             />
           </div>
         </div>

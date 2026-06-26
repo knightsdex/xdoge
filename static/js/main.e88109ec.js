@@ -5130,7 +5130,7 @@
                 }
                 Ul(t, !0, n, null, a);
                 break;
-              case "together":
+              case "tDOGEther":
                 Ul(t, !1, null, null, void 0);
                 break;
               default:
@@ -13973,7 +13973,7 @@
                   (0, $r.jsx)("h1", {
                     className: "title-lg",
                     ref: e,
-                    children: "𝕏OGE",
+                    children: "𝕏DOGE",
                   }),
                   (0, $r.jsx)("p", {
                     className: "text-lg",
@@ -13984,7 +13984,7 @@
                   // (0, $r.jsx)("a", {
                   //   className: "btn",
                   //   target: "_blank",
-                  //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdc5510f863dead665cfb65b4203b713957094022&chain=mainnet",
+                  //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
                   //   ref: n,
                   //   rel: "noreferrer",
                   //   children: "Join the Galactic Mission",
@@ -13998,7 +13998,7 @@
                         onClick: () => {
                           navigator.clipboard
                             .writeText(
-                              "0xdc5510f863dead665cfb65b4203b713957094022"
+                              "0xComingSoon"
                             )
                             .then(() => {
                               l(!0), setTimeout(() => l(!1), 2e3);
@@ -14061,7 +14061,7 @@
                 (0, $r.jsx)("a", {
                   href: "#header",
                   className: "logo display-none-desktop",
-                  children: "𝕏OGE",
+                  children: "𝕏DOGE",
                 }),
                 (0, $r.jsxs)("div", {
                   className: "hamburger",
@@ -14090,7 +14090,7 @@
                     className: "logo display-none-mobile",
                     href: "#header",
                     rel: "noopener noreferrer",
-                    children: "𝕏OGE",
+                    children: "𝕏DOGE",
                   }),
                 }),
                 (0, $r.jsx)("li", {
@@ -14128,7 +14128,7 @@
                 (0, $r.jsx)("li", {
                   children: (0, $r.jsx)("a", {
                     className: "navbar-hover-effect",
-                    href: "https://dexscreener.com/ethereum/0xdc5510f863dead665cfb65b4203b713957094022",
+                    href: "https://dexscreener.com/ethereum/0xComingSoon",
                     rel: "noopener noreferrer",
                     target: "_blank",
                     children: (0, $r.jsxs)("p", {
@@ -14144,7 +14144,7 @@
                 (0, $r.jsx)("li", {
                   children: (0, $r.jsx)("a", {
                     className: "navbar-hover-effect",
-                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xdc5510f863dead665cfb65b4203b713957094022",
+                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
                     rel: "noopener noreferrer",
                     target: "_blank",
                     children: (0, $r.jsx)("img", {
@@ -14207,7 +14207,7 @@
                   children: (0, $r.jsx)("a", {
                     className: "btn-navBar navbar-hover-effect",
                     rel: "noopener noreferrer",
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdc5510f863dead665cfb65b4203b713957094022&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
                     children: "Buy Now",
                   }),
                 }),
@@ -17105,7 +17105,7 @@
                         children: "About US",
                       }),
                       (0, $r.jsx)("h1", {
-                        children: "Why choose $XOGE memecoin ?",
+                        children: "Why choose $XDOGE memecoin ?",
                       }),
                     ],
                   }),
@@ -17114,7 +17114,7 @@
                     children: (0, $r.jsx)("p", {
                       className: "about-text",
                       children:
-                        "Say hello to the official currency of 𝕏: 𝕏OGE—where memes meet money! Powered by Doge's chaotic energy and fueled by 𝕏's ambition to reinvent everything, 𝕏OGE is the ultimate fusion of laughs and ledgers. Why trade boring coins when you can meme your way to wealth? 𝕏!",
+                        "Say hello to the official currency of 𝕏: 𝕏DOGE—where memes meet money! Powered by DDOGE's chaotic energy and fueled by 𝕏's ambition to reinvent everything, 𝕏DOGE is the ultimate fusion of laughs and ledgers. Why trade boring coins when you can meme your way to wealth? 𝕏!",
                     }),
                   }),
                 ],
@@ -17206,7 +17206,7 @@
                 (0, $r.jsx)(dl, {
                   number: "05",
                   title: "CA",
-                  text: "0xdc5510f863dead665cfb65b4203b713957094022",
+                  text: "0xComingSoon",
                 }),
               ],
             }),
@@ -17328,7 +17328,7 @@
                           ],
                         }),
                         title: "Prepare Your Spaceship",
-                        text: "Install a crypto wallet (like MetaMask or Trust Wallet) to safely store your $XOGE token.",
+                        text: "Install a crypto wallet (like MetaMask or Trust Wallet) to safely store your $XDOGE token.",
                       }),
                       (0, $r.jsx)(hl, {
                         svg: (0, $r.jsxs)("svg", {
@@ -17377,7 +17377,7 @@
                           ],
                         }),
                         title: "Launch to the Stars",
-                        text: "Swap your base Eth for $XOGE token on a decentralized exchange (DEX)  ( Uniswap).",
+                        text: "Swap your base Eth for $XDOGE token on a decentralized exchange (DEX)  ( Uniswap).",
                       }),
                       (0, $r.jsx)("img", {
                         src: "/img/card-img_1.png",
@@ -17445,7 +17445,7 @@
                           ],
                         }),
                         title: "Hold To The Moon",
-                        text: "Hold your 𝕏OGE token and prepare for the moon",
+                        text: "Hold your 𝕏DOGE token and prepare for the moon",
                       }),
                       (0, $r.jsx)(hl, {
                         svg: (0, $r.jsxs)("svg", {
@@ -17514,7 +17514,7 @@
                 className: "container-hr",
                 children: [
                   (0, $r.jsx)("a", {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdc5510f863dead665cfb65b4203b713957094022&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
                     rel: "noreferrer",
                     ref: e,
                     className: "btn-HowToBuy",
@@ -17602,7 +17602,7 @@
                 (0, $r.jsx)("p", {
                   className: "text-faqs",
                   children:
-                    "Download the White Paper and discover Bl𝕏OGEu Meme Coin\u2019s cosmic approach, tokenomics, and meet the intergalactic team guiding the mission!",
+                    "Download the White Paper and discover Bl𝕏DOGEu Meme Coin\u2019s cosmic approach, tokenomics, and meet the intergalactic team guiding the mission!",
                 }),
               ],
             }),
@@ -17610,7 +17610,7 @@
               className: "card-container-faqs hidden",
               children: [
                 (0, $r.jsx)(t, {
-                  title: "What is 𝕏OGE Meme Coin?",
+                  title: "What is 𝕏DOGE Meme Coin?",
                   text: "It\u2019s the first extraterrestrial memecoin, blending fun with real crypto utility.",
                 }),
                 (0, $r.jsx)(t, {
@@ -17622,7 +17622,7 @@
                   text: "On decentralized exchanges like  Uniswap. Check the How to Buy section for details.",
                 }),
                 (0, $r.jsx)(t, {
-                  title: "Does 𝕏OGE actually exist?",
+                  title: "Does 𝕏DOGE actually exist?",
                   text: "We can't say for sure, but our community is out of this world!",
                 }),
                 (0, $r.jsx)(t, {
@@ -17652,7 +17652,7 @@
                 }),
                 (0, $r.jsx)("a", {
                   className: "navbar-hover-effect",
-                  href: "https://dexscreener.com/ethereum/0xdc5510f863dead665cfb65b4203b713957094022",
+                  href: "https://dexscreener.com/ethereum/0xComingSoon",
                   rel: "noopener noreferrer",
                   target: "_blank",
                   children: (0, $r.jsxs)("p", {
@@ -17677,7 +17677,7 @@
                 }),
                 (0, $r.jsx)("a", {
                   className: "navbar-hover-effect",
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xdc5510f863dead665cfb65b4203b713957094022",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
                   rel: "noopener noreferrer",
                   target: "_blank",
                   children: (0, $r.jsx)("img", {
@@ -17692,7 +17692,7 @@
               className: "text-center",
               children: [
                 (0, $r.jsx)("p", {
-                  children: "Copyright \xa9 2025 𝕏OGE. All rights reserved.",
+                  children: "Copyright \xa9 2025 𝕏DOGE. All rights reserved.",
                 }),
                 // (0, $r.jsx)("a", {
                 //   href: "",

@@ -9,7 +9,7 @@ export default function Header() {
   const copyBtnRef = useRef(null);
   const [copied, setCopied] = useState(false);
 
-  const contractAddress = "0xdc5510f863dead665cfb65b4203b713957094022";
+  const contractAddress = "0xComingSoon";
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress).then(() => {
@@ -77,7 +77,7 @@ export default function Header() {
         <div className="grid-header" id="header">
           <div className="flex-header">
             <h1 className="title-lg" ref={titleRef}>
-              𝕏OGE
+              𝕏DOGE
             </h1>
             <p className="text-lg" ref={subHeadingRef}>
             Say hello to the official currency of 𝕏!
@@ -85,7 +85,7 @@ export default function Header() {
             {/* <a
               className="btn"
               target="_blank"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdc5510f863dead665cfb65b4203b713957094022&chain=mainnet"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet"
               ref={btnRef}
               rel="noreferrer"
             >

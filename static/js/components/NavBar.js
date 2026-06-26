@@ -44,7 +44,7 @@ function NavBar() {
         {/* Flex container for logo and hamburger */}
         <div className="logo-hamburger">
           <a href="#header" className="logo display-none-desktop">
-          𝕏OGE
+          𝕏DOGE
           </a>
           <div className="hamburger" onClick={toggleMenu}>
             <div className={`bar ${isOpen ? "open" : ""}`}></div>
@@ -61,7 +61,7 @@ function NavBar() {
               href="#header"
               rel="noopener noreferrer"
             >
-              𝕏OGE
+              𝕏DOGE
             </a>
           </li>
           <li>
@@ -104,7 +104,7 @@ function NavBar() {
           <li>
             <a
               className="navbar-hover-effect"
-              href="https://dexscreener.com/ethereum/0xdc5510f863dead665cfb65b4203b713957094022"
+              href="https://dexscreener.com/ethereum/0xComingSoon"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -117,7 +117,7 @@ function NavBar() {
           <li>
             <a
               className="navbar-hover-effect"
-              href="https://www.dextools.io/app/en/ether/pair-explorer/0xdc5510f863dead665cfb65b4203b713957094022"
+              href="https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -190,7 +190,7 @@ function NavBar() {
             <a
               className="btn-navBar navbar-hover-effect"
               rel="noopener noreferrer"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdc5510f863dead665cfb65b4203b713957094022&chain=mainnet"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet"
             >
               Buy Now
             </a>

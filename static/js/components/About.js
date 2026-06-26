@@ -40,7 +40,7 @@ function About() {
             <div className="about-heading">
               {" "}
               <h2 className="About-color About-font">About US</h2>
-              <h1>Why choose $XOGE memecoin ?</h1>
+              <h1>Why choose $XDOGE memecoin ?</h1>
             </div>
 
             <div className="flex-container-about-icon-text">
@@ -85,7 +85,7 @@ function About() {
                   <p className="About-font about-text">
                     Born from the cosmic depths of space, we’re on a mission to
                     bring humor and innovation to the crypto world. Through
-                    𝕏OGE Meme Coin, we aim to make meme culture a universal
+                    𝕏DOGE Meme Coin, we aim to make meme culture a universal
                     currency that everyone can enjoy.
                   </p>
                 </div>
@@ -135,7 +135,7 @@ function About() {
                   <h3>Transformative technologies</h3>
                   <p className="About-font about-text">
                     As the first extraterrestrial meme coin, we unite Earthlings
-                    and 𝕏OGE alike in a shared adventure of humor, community,
+                    and 𝕏DOGE alike in a shared adventure of humor, community,
                     and wealth. Join us on this cosmic journey and become part
                     of the ever-expanding meme-conomy
                   </p>
@@ -181,7 +181,7 @@ function About() {
                   <h3>Transformative technologies</h3>
                   <p className="About-font about-text">
                     As the first extraterrestrial meme coin, we unite Earthlings
-                    and 𝕏OGE alike in a shared adventure of humor, community,
+                    and 𝕏DOGE alike in a shared adventure of humor, community,
                     and wealth. Join us on this cosmic journey and become part
                     of the ever-expanding meme-conomy
                   </p>
@@ -189,7 +189,7 @@ function About() {
               </div> */}
 
               <p className="about-text">
-              Say hello to the official currency of 𝕏: 𝕏OGE—where memes meet money! Powered by Doge's chaotic energy and fueled by 𝕏's ambition to reinvent everything, 𝕏OGE is the ultimate fusion of laughs and ledgers. Why trade boring coins when you can meme your way to wealth? 𝕏!
+              Say hello to the official currency of 𝕏: 𝕏DOGE—where memes meet money! Powered by DDOGE's chaotic energy and fueled by 𝕏's ambition to reinvent everything, 𝕏DOGE is the ultimate fusion of laughs and ledgers. Why trade boring coins when you can meme your way to wealth? 𝕏!
               </p>
             </div>
           </div>

@@ -52,7 +52,7 @@ function FAQs() {
         <div className="hidden">
           <h1 className="faqs-title">Have Any Question?</h1>
           <p className="text-faqs">
-            Download the White Paper and discover 𝕏OGE Meme Coin’s cosmic
+            Download the White Paper and discover 𝕏DOGE Meme Coin’s cosmic
             approach, tokenomics, and meet the intergalactic team guiding the
             mission!
           </p>
@@ -60,7 +60,7 @@ function FAQs() {
 
         <div className="card-container-faqs hidden">
           <CardFaqs
-            title="What is 𝕏OGE Meme Coin?"
+            title="What is 𝕏DOGE Meme Coin?"
             text="It’s the first extraterrestrial memecoin, blending fun with real crypto utility."
           />
           <CardFaqs
@@ -72,7 +72,7 @@ function FAQs() {
             text="On decentralized exchanges like  Uniswap. Check the How to Buy section for details."
           />
           <CardFaqs
-            title="Does 𝕏OGE actually exist?"
+            title="Does 𝕏DOGE actually exist?"
             text="We can't say for sure, but our community is out of this world!"
           />
           <CardFaqs
@@ -103,7 +103,7 @@ function FAQs() {
 
           <a
             className="navbar-hover-effect"
-            href="https://dexscreener.com/ethereum/0xdc5510f863dead665cfb65b4203b713957094022"
+            href="https://dexscreener.com/ethereum/0xComingSoon"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -123,7 +123,7 @@ function FAQs() {
 
           <a
             className="navbar-hover-effect"
-            href="https://www.dextools.io/app/en/ether/pair-explorer/0xdc5510f863dead665cfb65b4203b713957094022"
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -135,7 +135,7 @@ function FAQs() {
           </a>
         </div>
         <div className="text-center">
-          <p>Copyright © 2025 𝕏OGE. All rights reserved.</p>
+          <p>Copyright © 2025 𝕏DOGE. All rights reserved.</p>
         </div>
       </div>
     </section>
