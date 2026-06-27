@@ -13984,7 +13984,7 @@
                   // (0, $r.jsx)("a", {
                   //   className: "btn",
                   //   target: "_blank",
-                  //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+                  //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x2d8c2e053cbb4c9aa416902e78168fd4770e7712&chain=mainnet",
                   //   ref: n,
                   //   rel: "noreferrer",
                   //   children: "Join the Galactic Mission",
@@ -13998,7 +13998,7 @@
                         onClick: () => {
                           navigator.clipboard
                             .writeText(
-                              "0xComingSoon"
+                              "0x2d8c2e053cbb4c9aa416902e78168fd4770e7712"
                             )
                             .then(() => {
                               l(!0), setTimeout(() => l(!1), 2e3);
@@ -14128,7 +14128,7 @@
                 (0, $r.jsx)("li", {
                   children: (0, $r.jsx)("a", {
                     className: "navbar-hover-effect",
-                    href: "https://dexscreener.com/ethereum/0xComingSoon",
+                    href: "https://dexscreener.com/ethereum/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712",
                     rel: "noopener noreferrer",
                     target: "_blank",
                     children: (0, $r.jsxs)("p", {
@@ -14144,7 +14144,7 @@
                 (0, $r.jsx)("li", {
                   children: (0, $r.jsx)("a", {
                     className: "navbar-hover-effect",
-                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
+                    href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712",
                     rel: "noopener noreferrer",
                     target: "_blank",
                     children: (0, $r.jsx)("img", {
@@ -14207,7 +14207,7 @@
                   children: (0, $r.jsx)("a", {
                     className: "btn-navBar navbar-hover-effect",
                     rel: "noopener noreferrer",
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x2d8c2e053cbb4c9aa416902e78168fd4770e7712&chain=mainnet",
                     children: "Buy Now",
                   }),
                 }),
@@ -17206,7 +17206,7 @@
                 (0, $r.jsx)(dl, {
                   number: "05",
                   title: "CA",
-                  text: "0xComingSoon",
+                  text: "0x2d8c2e053cbb4c9aa416902e78168fd4770e7712",
                 }),
               ],
             }),
@@ -17514,7 +17514,7 @@
                 className: "container-hr",
                 children: [
                   (0, $r.jsx)("a", {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x2d8c2e053cbb4c9aa416902e78168fd4770e7712&chain=mainnet",
                     rel: "noreferrer",
                     ref: e,
                     className: "btn-HowToBuy",
@@ -17652,7 +17652,7 @@
                 }),
                 (0, $r.jsx)("a", {
                   className: "navbar-hover-effect",
-                  href: "https://dexscreener.com/ethereum/0xComingSoon",
+                  href: "https://dexscreener.com/ethereum/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712",
                   rel: "noopener noreferrer",
                   target: "_blank",
                   children: (0, $r.jsxs)("p", {
@@ -17677,7 +17677,7 @@
                 }),
                 (0, $r.jsx)("a", {
                   className: "navbar-hover-effect",
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon",
+                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712",
                   rel: "noopener noreferrer",
                   target: "_blank",
                   children: (0, $r.jsx)("img", {

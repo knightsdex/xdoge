@@ -9,7 +9,7 @@ export default function Header() {
   const copyBtnRef = useRef(null);
   const [copied, setCopied] = useState(false);
 
-  const contractAddress = "0xComingSoon";
+  const contractAddress = "0x2d8c2e053cbb4c9aa416902e78168fd4770e7712";
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(contractAddress).then(() => {
@@ -85,7 +85,7 @@ export default function Header() {
             {/* <a
               className="btn"
               target="_blank"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x2d8c2e053cbb4c9aa416902e78168fd4770e7712&chain=mainnet"
               ref={btnRef}
               rel="noreferrer"
             >

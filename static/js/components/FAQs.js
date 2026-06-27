@@ -103,7 +103,7 @@ function FAQs() {
 
           <a
             className="navbar-hover-effect"
-            href="https://dexscreener.com/ethereum/0xComingSoon"
+            href="https://dexscreener.com/ethereum/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -123,7 +123,7 @@ function FAQs() {
 
           <a
             className="navbar-hover-effect"
-            href="https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon"
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712"
             rel="noopener noreferrer"
             target="_blank"
           >

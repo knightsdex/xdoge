@@ -104,7 +104,7 @@ function NavBar() {
           <li>
             <a
               className="navbar-hover-effect"
-              href="https://dexscreener.com/ethereum/0xComingSoon"
+              href="https://dexscreener.com/ethereum/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -117,7 +117,7 @@ function NavBar() {
           <li>
             <a
               className="navbar-hover-effect"
-              href="https://www.dextools.io/app/en/ether/pair-explorer/0xComingSoon"
+              href="https://www.dextools.io/app/en/ether/pair-explorer/0x2d8c2e053cbb4c9aa416902e78168fd4770e7712"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -190,7 +190,7 @@ function NavBar() {
             <a
               className="btn-navBar navbar-hover-effect"
               rel="noopener noreferrer"
-              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet"
+              href="https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x2d8c2e053cbb4c9aa416902e78168fd4770e7712&chain=mainnet"
             >
               Buy Now
             </a>
