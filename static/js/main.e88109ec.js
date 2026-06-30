@@ -17692,7 +17692,7 @@
               className: "text-center",
               children: [
                 (0, $r.jsx)("p", {
-                  children: "Copyright \xa9 2025 𝕏DOGE. All rights reserved.",
+                  children: "Copyright \xa9 2026 𝕏DOGE. All rights reserved.",
                 }),
                 // (0, $r.jsx)("a", {
                 //   href: "",
